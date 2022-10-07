@@ -5,6 +5,6 @@
 Para rodar esses relatórios na sua máquina, por favor digite:
 
 ```
-npm install Power bi desktop 
+node app.js 
 ```
 
