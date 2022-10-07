@@ -8,3 +8,5 @@ Para rodar esses relatórios na sua máquina, por favor digite:
 node app.js 
 ```
 
+:)
+
